@@ -82,10 +82,45 @@ create table query_log (
   erro text
 );
 
--- Usuário read-only usado pelo LLM
-create role llm_reader login password 'TROCAR_SENHA';
-grant usage on schema public to llm_reader;
+-- Zera role e função, se existirem (permite rodar este bloco de novo)
+drop function if exists run_sql(text, text);
+do $$ begin
+  if exists (select from pg_roles where rolname = 'llm_reader') then
+    grant llm_reader to postgres;
+    drop owned by llm_reader;
+    drop role llm_reader;
+  end if;
+end $$;
+
+-- Role read-only (sem login): dona da função run_sql, que roda com os privilégios dela
+create role llm_reader nologin;
+grant llm_reader to postgres;
+grant usage, create on schema public to llm_reader;
 grant select on all tables in schema public to llm_reader;
 grant insert on query_log to llm_reader;
 grant usage on sequence query_log_id_seq to llm_reader;
-alter role llm_reader set statement_timeout = '10s';
+
+-- Executa um SELECT e loga em query_log. Chamada via REST: POST /rest/v1/rpc/run_sql
+create function run_sql(pergunta text, query text) returns json
+language plpgsql security definer set search_path = public as $$
+declare
+  result json;
+  erro text;
+begin
+  set local statement_timeout = '10s';
+  begin
+    execute format('select json_agg(q) from (%s) q', query) into result;
+  exception when others then
+    erro := sqlerrm;
+  end;
+  insert into query_log (pergunta, sql, linhas, erro)
+    values (pergunta, query, json_array_length(coalesce(result, '[]')), erro);
+  if erro is not null then
+    return json_build_object('erro', erro);
+  end if;
+  return json_build_object('linhas', coalesce(result, '[]'::json));
+end $$;
+
+alter function run_sql(text, text) owner to llm_reader;
+revoke all on function run_sql(text, text) from public, anon, authenticated;
+grant execute on function run_sql(text, text) to service_role;

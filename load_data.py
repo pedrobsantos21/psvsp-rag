@@ -1,8 +1,8 @@
-"""Carrega os CSVs de data/ no Postgres. Uso: uv run --env-file .env load_data.py"""
-import os
+"""Carrega os CSVs de data/ no Supabase via REST. Uso: uv run --env-file .env load_data.py"""
+import csv
 from pathlib import Path
 
-import psycopg
+from psvsp.supabase import post
 
 # ordem respeita as FKs
 TABELAS = [
@@ -11,10 +11,9 @@ TABELAS = [
     "indicadores_desempenho", "indicadores_produtos", "metas",
 ]
 
-with psycopg.connect(os.environ["DATABASE_URL"]) as conn, conn.cursor() as cur:
-    cur.execute("truncate " + ", ".join(TABELAS) + " cascade")
-    for t in TABELAS:
-        with cur.copy(f"copy {t} from stdin with (format csv, header)") as copy:
-            copy.write(Path("data", f"{t}.csv").read_bytes())
-        cur.execute(f"select count(*) from {t}")
-        print(f"{t}: {cur.fetchone()[0]}")
+# ponytail: upsert por PK, sem truncate; linhas removidas do CSV ficam no banco
+for t in TABELAS:
+    with open(Path("data", f"{t}.csv"), encoding="utf-8", newline="") as f:
+        linhas = list(csv.DictReader(f))
+    post(t, linhas, prefer="resolution=merge-duplicates,return=minimal")
+    print(f"{t}: {len(linhas)}")

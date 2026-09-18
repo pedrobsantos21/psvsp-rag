@@ -1,9 +1,9 @@
 import json
-import os
 
-import psycopg
 import sqlglot
 from sqlglot import exp
+
+from psvsp.supabase import post
 
 ALLOWED_TABLES = {
     "eixos", "objetivos_estrategicos", "acoes", "acoes_eixos_transversais",
@@ -34,23 +34,7 @@ def limitar(sql: str) -> str:
 
 
 def run_query(pergunta: str, sql: str) -> str:
-    """Valida, executa e loga. Retorna JSON com colunas/linhas ou erro."""
-    erro = validar_query(sql)
-    colunas, linhas = [], []
-    if not erro:
-        # ponytail: conexão nova por query; pool quando houver concorrência
-        try:
-            with psycopg.connect(os.environ["LLM_DATABASE_URL"]) as conn, conn.cursor() as cur:
-                cur.execute(limitar(sql))
-                colunas = [d.name for d in cur.description]
-                linhas = cur.fetchall()
-        except psycopg.Error as e:
-            erro = str(e).strip()
-    with psycopg.connect(os.environ["LLM_DATABASE_URL"]) as conn:
-        conn.execute(
-            "insert into query_log (pergunta, sql, linhas, erro) values (%s, %s, %s, %s)",
-            (pergunta, sql, len(linhas) if not erro else None, erro),
-        )
-    if erro:
+    """Valida e executa via rpc run_sql (que roda como llm_reader e loga). Retorna JSON."""
+    if erro := validar_query(sql):
         return json.dumps({"erro": erro}, ensure_ascii=False)
-    return json.dumps({"colunas": colunas, "linhas": linhas}, ensure_ascii=False, default=str)
+    return json.dumps(post("rpc/run_sql", {"pergunta": pergunta, "query": limitar(sql)}), ensure_ascii=False)

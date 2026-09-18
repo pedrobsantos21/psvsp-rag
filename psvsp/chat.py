@@ -23,7 +23,7 @@ SYSTEM = [
 TOOLS = [
     {
         "name": "run_query",
-        "description": "Executa um SELECT no banco do PSV-SP e retorna colunas e linhas em JSON.",
+        "description": "Executa um SELECT no banco do PSV-SP e retorna as linhas em JSON.",
         "strict": True,
         "input_schema": {
             "type": "object",
@@ -44,7 +44,7 @@ def responder(pergunta: str, messages: list | None = None) -> str:
     messages.append({"role": "user", "content": pergunta})
     while True:
         resp = client.messages.create(
-            model="claude-opus-5", max_tokens=16000, system=SYSTEM, tools=TOOLS, messages=messages
+            model="claude-haiku-4-5", max_tokens=16000, system=SYSTEM, tools=TOOLS, messages=messages
         )
         messages.append({"role": "assistant", "content": resp.content})
         if resp.stop_reason != "tool_use":
