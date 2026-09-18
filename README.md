@@ -30,3 +30,8 @@ Comandos no chat: `/ajuda`, `/sql` (queries da última pergunta), `/limpar` (zer
 - `schema.md` — documentação do schema, embutida no system prompt.
 - `sql/schema.sql` — tabelas, role `llm_reader` e RPC `run_sql`.
 - `data/` — CSVs fonte.
+
+## Interface web (Streamlit)
+
+- Local: copie `.streamlit/secrets.toml.example` para `.streamlit/secrets.toml`, preencha (inclui `SENHA`, compartilhada com quem for usar) e rode `uv run streamlit run app.py`.
+- Deploy: [share.streamlit.io](https://share.streamlit.io) → New app → repo/branch, main file `app.py`; cole o conteúdo do `secrets.toml` em Settings → Secrets.

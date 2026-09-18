@@ -6,6 +6,7 @@ dependencies = [
     "anthropic>=1.7.0",
     "rich>=14.0.0",
     "sqlglot>=30.18.0",
+    "streamlit>=1.64.0",
 ]
 
 [project.scripts]
