@@ -1,0 +1,37 @@
+id_detalhamento,id_ator,nome_detalhamento
+D001,A004,Superintendência de Rodovias (SUROD)
+D002,A004,Superintendência de Transportes Coletivos (SUCOL)
+D003,A007,Assessoria Técnica do Governo (ATG)
+D004,A007,Subsecretaria de Articulação e Monitoramento
+D005,A008,Presidência
+D006,A008,Seção Consultiva
+D007,A008,Seção Regulatória
+D008,A008,Seção de Integração
+D009,A009,Diretoria de Engenharia (DE)
+D010,A009,Diretoria de Obras (DO)
+D011,A009,Diretoria de Operações Viárias (DV)
+D012,A009,Diretoria de Planejamento (DP)
+D013,A011,ASCOM
+D014,A011,Assessoria Policial
+D015,A011,Diretoria de Atendimento ao Cidadão (DAC)
+D016,A011,Diretoria de Fiscalização de Trânsito (DFT)
+D017,A011,Diretoria de Habilitação e Condutores (DHC)
+D018,A011,Diretoria de Segurança Viária (DSV)
+D019,A011,Diretoria de Tecnologia da Informação (DTI)
+D020,A011,Diretoria de Veículos Automotores (DVA)
+D021,A011,Presidência
+D022,A011,Superintendências Regionais
+D023,A031,Coordenadoria Pedagógica
+D024,A032,Subsecretaria de Logística e Transportes (SLT)
+D025,A033,Centro de Dados e Informações do Sistema de Informação sobre Mortalidade (CDD-SIM)
+D026,A033,Coordenação-Geral de Coordenação de Serviços de Saúde (CGCSS)
+D027,A033,GT VIOLÊNCIAS
+D028,A033,Gabinete SES
+D029,A033,Grupo de Resgate e Atenção às Urgências (GRAU)
+D030,A033,Rede de Atenção às Urgências e Emergências (RUE)
+D031,A034,Assessoria Especial de Governança
+D032,A036,Corpo de Bombeiros da Polícia Militar do Estado de São Paulo (CBPMESP)
+D033,A036,Polícia Civil
+D034,A036,Polícia Militar do Estado de São Paulo (PMESP)
+D035,A037,Coordenadoria de Planejamento e Gestão (CPG)
+D036,A036,Superintendência da Polícia Técnico-Científica (SPTC)

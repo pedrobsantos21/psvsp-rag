@@ -1,0 +1,363 @@
+id_indicador,descricao_indicador,id_produto
+1.1.1.1.1,Regimento interno do Sistran-SP publicado,1.1.1.1
+1.1.1.2.1,Decreto do Sistran-SP revisado,1.1.1.2
+1.1.1.3.1,Base normativa elaborada,1.1.1.3
+1.1.1.3.2,N° de atualizações realizadas,1.1.1.3
+1.1.1.4.1,N° de reuniões realizadas,1.1.1.4
+1.1.2.1.1,Decreto publicado,1.1.2.1
+1.1.2.2.1,Calendário oficial definido e publicado,1.1.2.2
+1.1.2.3.1,N° de relatórios publicados,1.1.2.3
+1.1.2.4.1,N° de manutenções realizadas,1.1.2.4
+1.1.2.4.2,Portal lançado,1.1.2.4
+1.1.2.5.1,N° de atualiações realizadas,1.1.2.5
+1.1.2.5.2,Indicadores disponíveis publicamente,1.1.2.5
+1.1.3.1.1,Comitê instituído,1.1.3.1
+1.1.3.2.1,Regimento publicado,1.1.3.2
+1.1.3.3.1,N° de reuniões ordinárias realizadas,1.1.3.3
+1.1.4.1.1,Metas e indicadores incluidos nos instrumentos de governo,1.1.4.1
+1.1.4.2.1,Matriz elaborada e atualizada,1.1.4.2
+1.1.4.3.1,N° de notas técnicas publicada,1.1.4.3
+1.1.4.4.1,N° de reuniões periódicas realizadas,1.1.4.4
+1.1.5.1.1,% de Superintendências com novas funções,1.1.5.1
+1.1.5.2.1,Guia publicado,1.1.5.2
+1.1.5.2.2,Nº de municípios que aderiram ao modelo,1.1.5.2
+1.1.5.3.1,Nº de conselhos municipais com participação de autoridades regionais e/ou estaduais,1.1.5.3
+1.1.6.1.1,Agenda(s) publicada(s),1.1.6.1
+1.1.6.1.2,Nº de municípios que aderiram à agenda,1.1.6.1
+1.2.1.1.1,% dos órgaos competentes com recursos alocados,1.2.1.1
+1.2.1.2.1,Módulo criado e integrado ao sistema para consulta pública,1.2.1.2
+1.2.1.3.1,Matriz publicada,1.2.1.3
+1.2.1.3.2,N° de atualizações realizadas,1.2.1.3
+1.2.2.1.1,Critérios técnicos publicados,1.2.2.1
+1.2.2.2.1,% de chamadas públicas com adoção dos critérios,1.2.2.2
+1.2.2.3.1,Nº de participantes servidores e/ou gestores municipais,1.2.2.3
+1.2.2.3.2,N° de capacitações realizadas,1.2.2.3
+1.2.3.1.1,Plataforma lançada,1.2.3.1
+1.2.3.1.2,N° de atualizações realizadas,1.2.3.1
+1.2.3.2.1,Base de dados abertos publicada,1.2.3.2
+1.2.3.2.2,N° de atualizações realizadas,1.2.3.2
+1.2.3.3.1,Ferramenta publicada,1.2.3.3
+1.2.3.4.1,Nº de ações de sensibilização realizadas,1.2.3.4
+1.2.3.4.2,Nº de gestores e cidadãos nas ações de sensibilização,1.2.3.4
+1.3.1.1.1,Diagnóstico publicado,1.3.1.1
+1.3.1.2.1,Nº de minuta(s) enviada(s) à Assembleia Legislativa,1.3.1.2
+1.3.1.2.2,Nº de minuta(s) enviada(s) à órgãos federais competentes,1.3.1.2
+1.3.1.3.1,Nº de reuniões técnicas realizadas,1.3.1.3
+1.3.1.3.2,Nº de propostas de revisão normativa formalizadas,1.3.1.3
+1.3.1.4.1,Nº de audiências e/ou reuniões realizadas,1.3.1.4
+1.3.1.5.1,Notas técnicas publicadas,1.3.1.5
+1.3.2.1.1,Rede lançada,1.3.2.1
+1.3.2.2.1,Seção publicada,1.3.2.2
+1.3.2.2.2,Nº de manutenções realizadas,1.3.2.2
+1.3.2.3.1,Nº de municípios com planos e/ou estratégias elaborados,1.3.2.3
+1.3.2.4.1,Nº de oicinas e encontros técnicos realizados,1.3.2.4
+1.3.2.5.1,Apoios implementados,1.3.2.5
+1.3.3.1.1,Nº de acordos e parcerias firmadas,1.3.3.1
+1.3.3.2.1,Relatório publicado,1.3.3.2
+1.3.4.1.1,Diretrizes publicadas,1.3.4.1
+1.3.4.2.1,Protocolo publicado e executado,1.3.4.2
+1.3.4.3.1,Minuta(s) publicada(s),1.3.4.3
+1.3.4.4.1,Nota técnica encaminhada,1.3.4.4
+1.3.4.5.1,Projeto-piloto implementado,1.3.4.5
+2.1.1.1.1,Protocolo elaborado,2.1.1.1
+2.1.1.1.2,N° de revisões do protocolo,2.1.1.1
+2.1.1.2.1,Módulo de infraestrutura viária desenvolvido,2.1.1.2
+2.1.1.3.1,Interface desenvolvida,2.1.1.3
+2.1.2.1.1,Fórum instituído,2.1.2.1
+2.1.2.2.1,N° de calendários de atividades elaborados,2.1.2.2
+2.1.2.3.1,N° de reuniões realizadas,2.1.2.3
+2.1.3.1.1,% de protocolos (POP's) padrão criados,2.1.3.1
+2.1.3.2.1,% de instrumentos formalizados,2.1.3.2
+2.1.3.3.1,Incentivos implementados,2.1.3.3
+2.1.4.1.1,Aplicativo desenvolvido,2.1.4.1
+2.1.4.2.1,% de Protocolos Operacionais Padrão (POPs) criados,2.1.4.2
+2.1.4.3.1,Modelo do instrumento normativo criado,2.1.4.3
+2.1.4.4.1,Capacitação realizada,2.1.4.4
+2.1.4.5.1,Protocolo publicado e incorporado às rotinas operacionais das forças de segurança,2.1.4.5
+2.1.5.1.1,Revisão realizada,2.1.5.1
+2.1.5.2.1,Plano de Trabalho definido,2.1.5.2
+2.1.5.3.1,N° de ciclos de capacitações realizados,2.1.5.3
+2.2.1.1.1,% Dados integrados ao Infosiga,2.2.1.1
+2.2.1.2.1,% Dados integrados ao Infosiga,2.2.1.2
+2.2.1.3.1,% Dados integrados ao Infosiga,2.2.1.3
+2.2.1.4.1,Banco de dados aprimorado,2.2.1.4
+2.2.1.5.1,% Dados integrados ao Infosiga,2.2.1.5
+2.2.1.6.1,% Dados integrados ao Infosiga,2.2.1.6
+2.2.1.7.1,% Dados integrados ao Infosiga,2.2.1.7
+2.2.1.8.1,% Dados integrados ao Infosiga,2.2.1.8
+2.2.2.1.1,Sistema criado,2.2.2.1
+2.2.2.2.1,% de Protocolos Operacionais Padrão (POPs) criados,2.2.2.2
+2.3.1.1.1,N° de atualizações realizadas,2.3.1.1
+2.3.1.2.1,N° de publicações realizadas,2.3.1.2
+2.3.1.3.1,N° de publicações do relatório de sinistralidade realizadas,2.3.1.3
+2.3.1.4.1,API pública criada,2.3.1.4
+2.3.2.1.1,N° de produções e divulgações realizadas,2.3.2.1
+2.3.2.2.1,N° de estudos produzidos e divulgados,2.3.2.2
+2.3.3.1.1,Manual elaborado,2.3.3.1
+2.3.3.2.1,N° de estudos elaborados e divulgados,2.3.3.2
+2.3.3.3.1,Painel criado,2.3.3.3
+2.3.3.4.1,N° de capacitações técnicas realizadas,2.3.3.4
+2.3.4.1.1,N° de calendários criados,2.3.4.1
+2.3.4.2.1,Parceria formalizada,2.3.4.2
+2.3.5.1.1,% Medidores adquiridos e instalados,2.3.5.1
+2.3.5.2.1,N° de relatórios elaborados,2.3.5.2
+2.3.5.3.1,100% das análises elaboradas,2.3.5.3
+2.3.5.4.1,Painel criado,2.3.5.4
+2.3.5.5.1,Capacitação realizada,2.3.5.5
+3.1.1.1.1,Guia publicado,3.1.1.1
+3.1.1.2.1,% de programas estaduais com diretrizes e parâmetros revisados,3.1.1.2
+3.1.1.3.1,% de órgãos estaduais envolvidos no Guia com profissionais capacitados,3.1.1.3
+3.1.1.3.2,% das Superintendências Regionais de Trânsito com profissionais capacitados,3.1.1.3
+3.1.1.3.3,% de municípios integrados ao Sistran-SP com técnicos capacitados,3.1.1.3
+3.1.2.1.1,Indicadores definidos e validados,3.1.2.1
+3.1.2.2.1,Caderno publicado,3.1.2.2
+3.1.2.3.1,% de novos contratos de concessão com metas de segurança viária incorporadas,3.1.2.3
+3.1.2.3.2,% de contratos ativos com metas de segurança viária revisadas,3.1.2.3
+3.1.2.4.1,N° de documentos publicados,3.1.2.4
+3.1.3.1.1,Mapeamento e análise crítica dos contratos de concessão de corredores de transporte coletivo existentes realizadas,3.1.3.1
+3.1.3.2.1,Indicadores contratuais definidos e validados,3.1.3.2
+3.1.3.3.1,Caderno publicado,3.1.3.3
+3.1.3.4.1,% de novos contratos de concessão com metas de segurança viária incorporadas,3.1.3.4
+3.1.3.4.2,% de contratos ativos com metas de segurança viária revisadas,3.1.3.4
+3.1.3.5.1,N° de documentos publicados,3.1.3.5
+3.1.4.1.1,Mapeamento e análise crítica dos contratos de novas rodovias e de manutenção de rodovias existentes realizadas,3.1.4.1
+3.1.4.2.1,Indicadores definidos e validados,3.1.4.2
+3.1.4.3.1,Caderno publicado,3.1.4.3
+3.1.4.4.1,% de novos contratos de concessão com metas de segurança viária incorporadas,3.1.4.4
+3.1.4.4.2,% de contratos ativos com metas de segurança viária revisadas,3.1.4.4
+3.1.4.5.1,N° de documentos publicados,3.1.4.5
+3.1.5.1.1,% de parâmetros e diretrizes existentes analisados,3.1.5.1
+3.1.5.2.1,Parâmetros criados,3.1.5.2
+3.1.5.3.1,Manual publicado,3.1.5.3
+3.1.5.4.1,Disseminação e treinamento do Manual realizado,3.1.5.4
+3.1.6.1.1,Documento elaborado e publicado,3.1.6.1
+3.1.6.2.1,Contribuições técnicas enviadas,3.1.6.2
+3.2.1.1.1,Mapeamento realizado,3.2.1.1
+3.2.1.2.1,Mapeamento realizado,3.2.1.2
+3.2.1.3.1,Plano publicado,3.2.1.3
+3.2.1.4.1,% de planos de ação revisados,3.2.1.4
+3.2.1.5.1,Nº de ciclos de capacitação realizados,3.2.1.5
+3.2.1.6.1,% de trechos críticos com melhorias implantadas,3.2.1.6
+3.2.1.7.1,Nº de relatórios antes-depois publicados,3.2.1.7
+3.2.1.8.1,Nº de relatórios antes-depois publicados,3.2.1.8
+3.2.2.1.1,Mapeamento e análise crítica realizados,3.2.2.1
+3.2.2.2.1,% de programas com critérios revisados,3.2.2.2
+3.2.2.3.1,% de municípios integrados ao Sistran-SP com técnicos capacitados,3.2.2.3
+3.2.2.4.1,N° de orçamentos anuais aprovados e publicados,3.2.2.4
+3.2.3.1.1,Diagnóstico publicado,3.2.3.1
+3.2.3.2.1,Plano elaborado,3.2.3.2
+3.2.3.3.1,Instrumento de cooperação elaborado,3.2.3.3
+3.2.3.4.1,Nº de passagens implantadas e monitoradas,3.2.3.4
+3.2.3.4.2,% de redução dos atropelamentos de fauna silvestre e doméstica nas rodovias estaduais,3.2.3.4
+3.2.3.5.1,% de municípios integrados ao Sistran-SP com campanha veiculada,3.2.3.5
+3.3.1.1.1,Ferramenta de monitoramento permanente criada,3.3.1.1
+3.3.1.2.1,Critérios revisados,3.3.1.2
+3.3.2.1.1,Mapeamento realizado,3.3.2.1
+3.3.2.2.1,% de regulamentação revisada e atualizada,3.3.2.2
+3.3.2.3.1,Revisão e atualização da regulamentação realizada,3.3.2.3
+3.3.2.4.1,Plano de implantação elaborado,3.3.2.4
+3.3.2.4.2,Projetos implantados,3.3.2.4
+3.3.2.5.1,% de novos contratos de concessão com obrigação de ciclovias e ciclofaixas nos trechos rodoviários críticos incorporada,3.3.2.5
+4.1.1.1.1,Repositório criado,4.1.1.1
+4.1.1.2.1,N° de ciclos de capacitação professores da rede de educação básica estadual e municipal realizados,4.1.1.2
+4.1.1.2.2,N° de professores capacitados em mobilidade e segurança viária,4.1.1.2
+4.1.1.3.1,N° de oficinas e/ou palestras realizadas,4.1.1.3
+4.1.1.4.1,N° articuladores regionais por Unidade Regional de Ensino mobilizados,4.1.1.4
+4.1.1.4.2,Rede de educadores criada,4.1.1.4
+4.1.1.5.1,Reconhecimento instituído,4.1.1.5
+4.1.2.1.1,N° de parcerias formalizados,4.1.2.1
+4.1.2.2.1,N° de oficinas e/ou palestras realizadas,4.1.2.2
+4.1.2.3.1,Documento elaborado,4.1.2.3
+4.1.2.4.1,Reconhecimento instituído,4.1.2.4
+4.1.3.1.1,Mapeamento realizado,4.1.3.1
+4.1.3.2.1,N° de parcerias formalizadas,4.1.3.2
+4.1.3.3.1,N° de ciclos de capacitação para servidores municipais realizados,4.1.3.3
+4.1.3.3.2,% dos municípios integrados ao SISTRAN com servidores capacitados,4.1.3.3
+4.1.3.3.3,Ciclo de capacitação para as organizações parceiras realizada,4.1.3.3
+4.1.4.1.1,Metodologia publicada,4.1.4.1
+4.1.4.2.1,% das equipes das Superintendências capacitadas,4.1.4.2
+4.1.4.3.1,N° de unidades escolares com atividades por ano,4.1.4.3
+4.1.4.4.1,N° de planos de atividades elaborados,4.1.4.4
+4.1.4.5.1,N° de unidades escolares com atividades,4.1.4.5
+4.2.1.1.1,Guia publicado,4.2.1.1
+4.2.1.1.2,Módulos multimídia publicados,4.2.1.1
+4.2.1.2.1,Ferramenta implantada,4.2.1.2
+4.2.2.1.1,% dos municípios capacitados,4.2.2.1
+4.2.2.2.1,Espaço de intercâmbio criado,4.2.2.2
+4.3.1.1.1,N° de capacitações revisadas e homologadas,4.3.1.1
+4.3.1.1.2,% de novos conteúdos implementados em todos os cursos de capacitação profissional,4.3.1.1
+4.3.2.1.1,Referenciais pedagógicos revisados e homologados,4.3.2.1
+4.3.2.1.2,% das entidades credenciadas com implementação dos novos referenciais,4.3.2.1
+4.3.2.2.1,Programa-piloto implantado,4.3.2.2
+4.3.2.2.2,Programa institucionalizado,4.3.2.2
+4.3.2.2.3,N° de ciclos de reconhecimento realizados,4.3.2.2
+4.3.3.1.1,Definição realizada,4.3.3.1
+4.3.3.2.1,Documento elaborado e validado no âmbito do SISTRAN-SP,4.3.3.2
+4.3.4.1.1,Diagnóstico realizado,4.3.4.1
+4.3.4.2.1,% de implantações realizadas,4.3.4.2
+4.3.5.1.1,Integração realizada,4.3.5.1
+4.3.5.2.1,N° de campanhas educativas produzidas e divulgadas,4.3.5.2
+5.1.1.1.1,Guia desenvolvido,5.1.1.1
+5.1.1.2.1,Guia publicado,5.1.1.2
+5.1.1.2.2,% de novas campanhas municipais de segurança viária (apoiadas pelo Estado) com adoção das diretrizes do guia,5.1.1.2
+5.1.2.1.1,Plano elaborado,5.1.2.1
+5.1.2.2.1,Nº de campanhas com brand lift,5.1.2.2
+5.1.2.3.1,Nº de teste(s) de mensagem pré campanha executado(s),5.1.2.3
+5.1.2.4.1,Ferramenta implantada,5.1.2.4
+5.1.3.1.1,Nº de campanhas multicanal (materiais) produzidas,5.1.3.1
+5.1.3.2.1,% de municípios integrados ao Sistran-SP com recebimento dos materiais de campanhas,5.1.3.2
+5.1.3.2.2,% de municípios integrados ao Sistran-SP com materiais de campanhas veiculados,5.1.3.2
+5.2.1.1.1,% de materiais de apoio produzidos e disponíveis,5.2.1.1
+5.2.1.2.1,Plano de capacitações desenvolvido,5.2.1.2
+5.2.1.3.1,Nº de capacitações para porta-vozes realizados,5.2.1.3
+5.2.1.4.1,Nº de capacitações para equipes de comunicação realizadas,5.2.1.4
+5.2.2.1.1,Guia publicado,5.2.2.1
+5.2.2.1.2,% comunicações oficiais dos órgãos estaduais centrais com adoação da narrativa,5.2.2.1
+5.2.2.1.3,% de órgãos estaduais do Sistran-SP com adoção da narrativa,5.2.2.1
+5.2.2.2.1,Ficha resumo para porta-vozes criado e disseminado,5.2.2.2
+5.2.3.1.1,Guia Prático publicado,5.2.3.1
+5.2.3.2.1,% de municípios integrados ao Sistran-SP com recebimento do guia,5.2.3.2
+5.2.3.2.2,% de municípios integrados ao Sistran-SP com diretrizes do guia adotadas,5.2.3.2
+5.2.4.1.1,Lista de contatos de imprensa criada e qualificada,5.2.4.1
+5.2.4.1.2,N° de aualizações de lista de contatos realizadas,5.2.4.1
+5.2.4.2.1,Nº de sugestões de pauta qualificadas enviadas,5.2.4.2
+5.2.4.2.2,Nº de artigos de opinião publicados em veículos de comunicação de alcance estadual ou nacional,5.2.4.2
+5.2.4.2.3,Nº de sugestões de pautas estratégicas enviadas,5.2.4.2
+5.2.4.3.1,Nº de capacitações para jornalistas realizadas,5.2.4.3
+5.2.4.3.2,Nº de jornalistas capacitados,5.2.4.3
+5.2.4.4.1,% de eventos ou ações relevantes com kit de imprensa produzido,5.2.4.4
+5.3.1.1.1,Plano de capacitações (municipais) desenvolvido,5.3.1.1
+5.3.1.1.2,Nº de ciclo(s) de capacitações realizado(s),5.3.1.1
+5.3.1.2.1,% materiais produzidos de acordo com agenda de capacitações,5.3.1.2
+5.3.2.1.1,Nº de parcerias estratégicas formalizadas,5.3.2.1
+5.3.2.2.1,Mapeamento inicial de parceiros concluído,5.3.2.2
+5.3.2.2.2,Mapeamento atualizado,5.3.2.2
+5.3.3.1.1,Nº de calendário(s) editoral(is) definido(s),5.3.3.1
+5.3.3.2.1,% de Superintendências Regionais de Trânsito com recebimento do calendário,5.3.3.2
+5.3.3.2.2,% de Superintendências Regionais de Trânsito com adoção do calendário,5.3.3.2
+6.1.1.1.1,% de convênios revisados,6.1.1.1
+6.1.1.2.1,Modelo revisado,6.1.1.2
+6.1.1.3.1,% de órgãos de fiscalização com instrumentos assinado e publicado,6.1.1.3
+6.1.2.1.1,% de regiões do estado capacitadas,6.1.2.1
+6.1.2.1.2,Nº de ciclos de capacitação realizados,6.1.2.1
+6.1.2.2.1,Plano estadual publicado,6.1.2.2
+6.1.2.2.2,N° de revisões dos plano estadual publicado,6.1.2.2
+6.1.2.2.3,% de planos regionais publicados,6.1.2.2
+6.1.2.3.1,Solução tecnológica desenvolvida,6.1.2.3
+6.1.2.4.1,N° de documentos publicados,6.1.2.4
+6.1.3.1.1,Plano de Trabalho publicado,6.1.3.1
+6.1.3.2.1,Manual publicado,6.1.3.2
+6.1.4.1.1,Diagnóstico realizado,6.1.4.1
+6.1.4.2.1,Guia publicado,6.1.4.2
+6.1.4.3.1,N° de ciclos de capacitação realizados,6.1.4.3
+6.1.4.3.2,% de municípios integrados ao Sistran-SP com técnicos capacitados,6.1.4.3
+6.1.5.1.1,N° de planos publicados,6.1.5.1
+6.1.5.2.1,N° de fóruns de fiscalização realizads,6.1.5.2
+6.1.5.2.2,N° de workshops realizados,6.1.5.2
+6.1.5.2.3,N° de visitas técnicas realizadas,6.1.5.2
+6.1.5.3.1,Acesso concedido aos cursos,6.1.5.3
+6.1.6.1.1,N° de encontros realizados,6.1.6.1
+6.1.6.1.2,N° de seminários realizados,6.1.6.1
+6.1.6.2.1,Cartilha elaborada,6.1.6.2
+6.2.1.1.1,Modelo e avaliação realizados,6.2.1.1
+6.2.1.2.1,N° de envios de relatórios para 100% dos órgãos estaduais e municipais de fiscalização a partir de 2028,6.2.1.2
+6.2.2.1.1,Diagnóstico realizado,6.2.2.1
+6.2.2.2.1,Parâmetros técnicos e operacionais definidos,6.2.2.2
+6.2.2.3.1,Melhorias implementadas,6.2.2.3
+6.2.2.4.1,N° de Ciclos de capacitação realizados,6.2.2.4
+6.2.3.1.1,N° de Calendários de planejamento integrado publicados,6.2.3.1
+6.2.3.2.1,% de operações realizadas,6.2.3.2
+6.2.3.2.2,% de redução da taxa de comportamentos de risco por mil veículos monitorados nas áreas fiscalizadas,6.2.3.2
+6.2.4.1.1,Guia elaborado,6.2.4.1
+6.2.4.2.1,Processo de definição de requisitos concluído,6.2.4.2
+6.2.4.3.1,N° de ciclos de capacitação realizados,6.2.4.3
+6.2.5.1.1,Estudo realizado,6.2.5.1
+6.2.5.2.1,Processo de definção de critérios e parâmetros concluído,6.2.5.2
+6.2.5.3.1,% dos locais prioritários com equipamentos implantados,6.2.5.3
+6.2.6.1.1,Plano de ação elaborado,6.2.6.1
+6.2.6.2.1,Detecção de veículos de infratores contumazes implantada,6.2.6.2
+6.2.7.1.1,% dos órgãos de fiscalização e concessionárias consultados,6.2.7.1
+6.2.7.1.2,Diagnóstico publicado,6.2.7.1
+6.2.7.2.1,Termo elaborado,6.2.7.2
+6.2.7.3.1,Proposta elaborada,6.2.7.3
+6.3.1.1.1,Catálogo elaborado,6.3.1.1
+6.3.1.2.1,N° de encontros/oficinas realizados,6.3.1.2
+6.3.2.1.1,N° de parcerias firmadas,6.3.2.1
+6.3.2.2.1,Plano de Trabalho elaborado,6.3.2.2
+6.3.3.1.1,Termo elaborado,6.3.3.1
+6.3.3.2.1,Avaliação elaborada,6.3.3.2
+6.3.3.3.1,Sistemas digitiais implementados,6.3.3.3
+7.1.1.1.1,Manual publicado,7.1.1.1
+7.1.1.2.1,N° de ciclos de capacitação,7.1.1.2
+7.1.1.3.1,Portaria editada,7.1.1.3
+7.1.1.4.1,% da frota do estado vistoriada,7.1.1.4
+7.1.1.5.1,N° de parcerias estabelecidas,7.1.1.5
+7.1.1.5.2,% dos municípios integrados ao SISTRAN-SP com ações educativas estabelecidas,7.1.1.5
+7.1.2.1.1,Processo elaborado,7.1.2.1
+7.1.2.2.1,Portaria editada,7.1.2.2
+7.1.2.3.1,Diagnóstico elaborado,7.1.2.3
+7.1.2.4.1,% da frota de transporte escolar vistoriada,7.1.2.4
+7.1.2.4.2,% de frota de aplicativo vistoriada,7.1.2.4
+7.1.3.1.1,Estudo realizado,7.1.3.1
+7.1.3.2.1,Normativa editada,7.1.3.2
+7.1.3.3.1,Sistema criado,7.1.3.3
+7.1.4.1.1,Estudo elaborado,7.1.4.1
+7.1.4.2.1,Estudo elaborado,7.1.4.2
+7.1.5.1.1,Norma editada,7.1.5.1
+7.1.5.2.1,Guia publicado,7.1.5.2
+7.1.6.1.1,Legislação estadual editada,7.1.6.1
+7.1.6.2.1,Integração instituída,7.1.6.2
+7.1.6.3.1,Banco de dados criado,7.1.6.3
+7.1.7.1.1,Estudo elaborado,7.1.7.1
+7.1.7.2.1,Proposta elaborada,7.1.7.2
+7.2.1.1.1,Procedimento enviado,7.2.1.1
+7.2.1.2.1,Canal criado,7.2.1.2
+7.2.2.1.1,Proposta enviada,7.2.2.1
+7.2.2.2.1,Proposta enviada,7.2.2.2
+7.2.3.1.1,Proposta enviada,7.2.3.1
+7.3.1.1.1,Proposta elaborada,7.3.1.1
+7.3.1.2.1,Ato publicado,7.3.1.2
+7.3.1.3.1,N° de reuniões,7.3.1.3
+7.3.2.1.1,Calendário inicial elaborado,7.3.2.1
+7.3.2.1.2,N° de atualizações do calendário,7.3.2.1
+7.3.2.2.1,N° de ciclos de capacitação,7.3.2.2
+7.3.2.3.1,% do Material técnico elaborado,7.3.2.3
+7.3.3.1.1,Proposta elaborada,7.3.3.1
+7.3.3.2.1,% Pareceres divulgados,7.3.3.2
+8.1.1.1.1,Diagnóstico publicado,8.1.1.1
+8.1.1.2.1,Modelos definidos,8.1.1.2
+8.1.1.3.1,Protocolo elaborado,8.1.1.3
+8.1.2.1.1,Mapeamento e diagnóstico realizado,8.1.2.1
+8.1.2.2.1,Modelo proposto,8.1.2.2
+8.1.2.3.1,Diagóstico elaborado,8.1.2.3
+8.1.2.4.1,Integração realizada,8.1.2.4
+8.1.3.1.1,Inventário realizado,8.1.3.1
+8.1.3.2.1,Compatibilização realizada,8.1.3.2
+8.1.3.3.1,Compatibilização realizada,8.1.3.3
+8.1.3.4.1,Planos regionais atualizados,8.1.3.4
+8.1.3.5.1,Nº de ciclo(s) de capacitação realizado(s),8.1.3.5
+8.1.3.6.1,Nº de simulado(s) integrado(s) realizado(s),8.1.3.6
+8.1.4.1.1,Responsabilidades e fluxos definidos,8.1.4.1
+8.1.4.2.1,Estudo elaborado,8.1.4.2
+8.1.5.1.1,Matriz e estrutura do curso elaborada,8.1.5.1
+8.1.5.2.1,N° de ciclos de capacitações realizados,8.1.5.2
+8.2.1.1.1,% de Acordos formalizados,8.2.1.1
+8.2.1.2.1,Processo de inclusão de novos membros incluídos,8.2.1.2
+8.2.2.1.1,% de Acordos de cooperação formalizados,8.2.2.1
+8.2.2.2.1,Integração realizada,8.2.2.2
+8.2.3.1.1,% de Parcerias formalizadas,8.2.3.1
+8.2.3.2.1,N° de ciclos de capacitação realizados,8.2.3.2
+8.3.1.1.1,Protocolo elaborado,8.3.1.1
+8.3.1.2.1,Plano de capacitação elaborado,8.3.1.2
+8.3.1.3.1,N° de campanhas de sensibilização desenvolvidas,8.3.1.3
+8.4.1.1.1,Protocolo desenolvido,8.4.1.1
+8.4.1.2.1,% dos Contratos revisados,8.4.1.2
+8.4.1.3.1,N° de auditorias realizadas,8.4.1.3
+8.4.1.4.1,N° de campanhas veiculadas,8.4.1.4
+8.4.2.1.1,Diagnóstico elaborado,8.4.2.1
+8.4.2.2.1,Plano elaborado,8.4.2.2
+8.4.2.3.1,% de Acordos de cooperação formalizados,8.4.2.3
+8.4.2.4.1,Manual elaborado,8.4.2.4
+8.4.2.5.1,Monitoramento e avaliação realizados,8.4.2.5
+8.4.2.6.1,Plano implantado,8.4.2.6
+8.4.3.1.1,Cooperação formalizada,8.4.3.1

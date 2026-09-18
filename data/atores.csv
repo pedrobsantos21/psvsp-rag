@@ -1,0 +1,46 @@
+id_ator,nome_ator,presente_matriz_acoes
+A001,ALESP,true
+A002,ANTT,true
+A003,ARSESP,true
+A004,ARTESP,true
+A005,Academia,true
+A006,CEAPESV,true
+A007,Casa Civil,true
+A008,Cetran-SP,true
+A009,DER-SP,true
+A010,DNIT,true
+A011,Detran-SP,true
+A012,EGESP,true
+A013,Guardas Municipais,true
+A014,Inmetro,true
+A015,Institutos de Pesquisa,true
+A016,JARIs,true
+A017,Membros Natos SISTRAN-SP,true
+A018,Ministério Público,true
+A019,Montadoras,true
+A020,Município de São Paulo,true
+A021,ONGs,true
+A022,PGE,true
+A023,PMESP,true
+A024,PRF-SP,true
+A025,PROCON,true
+A026,SDE,true
+A027,SDUH,true
+A028,SEADE,true
+A029,SECOM,true
+A030,SEDPcD,true
+A031,SEDUC-SP,true
+A032,SEMIL-SP,true
+A033,SES-SP,true
+A034,SGGD,true
+A035,SGRI,true
+A036,SSP,true
+A037,STM,true
+A038,Secretaria da Fazenda,true
+A039,Secretarias Municipais de Saúde,true
+A040,Órgãos Autuadores,true
+A041,Órgãos Municipais,true
+A042,BIGRS,false
+A043,Be Solution,false
+A044,Prodesp,false
+A045,WRI Brasil,false

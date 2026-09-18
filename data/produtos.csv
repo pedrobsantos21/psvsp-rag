@@ -1,0 +1,309 @@
+id_produto,id_acao,nome_produto,id_ator_responsavel,id_detalhamento
+1.1.1.1,1.1.1,Publicação do regimento interno do Sistran-SP,A008,D007
+1.1.1.2,1.1.1,Revisão do Decreto que institui o Sistran-SP para inserção de todas as Secretarias de Estado como membros natos e alinhamento ao PSV-SP,A008,D005
+1.1.1.3,1.1.1,"Elaboração e manutenção de base digital normativa do PSV-SP, correlacionando legislações federais, estaduais e municipais aplicáveis a cada eixo e ação do plano",A008,D006
+1.1.1.4,1.1.1,Realização periódica de reuniões ordinárias do Sistran-SP,A008,D005
+1.1.2.1,1.1.2,Publicação do decreto que institui formalmente o PSV-SP,A007,D003
+1.1.2.2,1.1.2,"Definição oficial do calendário de revisões periódicas (curto, médio e longo prazos), alinhado aos ciclos do PPA e do planejamento estadual",A008,D005
+1.1.2.3,1.1.2,"Elaboração de relatórios de monitoramento e avaliação de desempenho das ações, produtos e metas do PSV-SP",A011,D018
+1.1.2.4,1.1.2,"Lançamento de portal público para monitoramento e avaliação do PSV-SP, com dados atualizados, relatórios e boas práticas",A008,D007
+1.1.2.5,1.1.2,"Definição de indicadores estratégicos de segurança viária para o Estado, vinculado ao monitoramento do plano",A011,D018
+1.1.3.1,1.1.3,"Institucionalização do comitê, com designação dos membros e publicação do ato no DOE",A034,D031
+1.1.3.2,1.1.3,"Publicação de regimento interno do comitê, com definição de competências e frequência mínima de reuniões",A008,D007
+1.1.3.3,1.1.3,Realização periódica de reuniões ordinárias e extraordinárias,A008,D007
+1.1.4.1,1.1.4,Inclusão das metas e indicadores de segurança viária nos relatórios de gestão e planos estratégicos do governo estadual,A007,D004
+1.1.4.2,1.1.4,"Elaboração de matriz de integração entre o PSV-SP e os planos setoriais e regionais, identificando grau de alinhamento, metas e responsabilidades",A011,D018
+1.1.4.3,1.1.4,Publicação de nota técnica com recomendações e diretrizes para incorporação de metas de segurança viária nos planos estaduais e municipais,A011,D018
+1.1.4.4,1.1.4,Realização de reuniões periódicas de alinhamento intersetorial entre órgãos envolvidos no âmbito do Sistran-SP,A008,D007
+1.1.5.1,1.1.5,Estruturação de apoio técnico e articulação territorial em segurança viária pelas Superintendências Regionais do DETRAN-SP,A011,D022
+1.1.5.2,1.1.5,"Elaboração e publicação de guia para orientar a criação e operação de observatórios municipais de segurança viária, integrados metodologicamente ao Observatório Estadual e tecnologicamente ao Infosiga",A011,D018
+1.1.5.3,1.1.5,Participação das autoridades regionais e estaduais nos conselhos municipais de trânsito e transporte,A011,D018
+1.1.6.1,1.1.6,"Publicação anual da Agenda Integrada de Mobilização pela Segurança Viária, no âmbito do Sistran-SP, voltada à mobilização de municípios e órgãos estaduais",A008,D007
+1.2.1.1,1.2.1,"Alocação de recursos existentes para a segurança viária, com fluxos, fontes e governança",A011,D018
+1.2.1.2,1.2.1,"Integração dos órgãos executivos estaduais de trânsito, no âmbito do SISTRAN-SP, aos sistemas orçamentário-financeiros",A011,D018
+1.2.1.3,1.2.1,Elaboração e atualização de matriz de vinculação entre ações do PSV-SP e ações orçamentárias por órgão,A008,D007
+1.2.2.1,1.2.2,"Definição e publicação de critérios técnicos de custo-efetividade, impacto em vidas salvas e retorno social para seleção de ações e projetos financiados",A011,D018
+1.2.2.2,1.2.2,"Elaboração de editais e convênios com critérios técnicos e de desempenho, incluindo mecanismos de bonificação e prioridade com base em metas de segurança viária",A011,D018
+1.2.2.3,1.2.2,Realização de capacitações técnicas para equipes estaduais e municipais sobre gestão de recursos com base em evidências e desempenho,A011,D018
+1.2.3.1,1.2.3,"Lançamento de plataforma de transparência financeira da segurança viária, integrada ao portal do Sistran-SP",A008,D005
+1.2.3.2,1.2.3,"Divulgação de dados abertos sobre receitas, despesas, projetos financiados e resultados alcançados em segurança viária",A008,D007
+1.2.3.3,1.2.3,Disponibilização ferramenta de transparência sobre informações locais específicas de segurança viária para o cidadão,A011,D015
+1.2.3.4,1.2.3,Realização de ações de sensibilização sobre transparência e uso responsável dos recursos destinados à segurança viária,A008,D005
+1.3.1.1,1.3.1,Elaboração de diagnóstico das lacunas legais e normativas estaduais e federais relacionadas à segurança viária,A008,D006
+1.3.1.2,1.3.1,Proposição de minutas com recomendações técnicas à Assembleia Legislativa e órgãos federais competentes,A008,D005
+1.3.1.3,1.3.1,Articulação técnica com o Governo Federal para a gestão dos fatores de risco,A008,D005
+1.3.1.4,1.3.1,Realização de audiências e reuniões técnicas interinstitucionais com legisladores e gestores públicos,A008,D005
+1.3.1.5,1.3.1,Publicação de notas técnicas sobre avanços e desafios normativos no estado,A008,D007
+1.3.2.1,1.3.2,"Lançamento público, no âmbito do SISTRAN-SP, da Rede Paulista pela Visão Zero como instrumento de cooperação e compromisso entre o Estado e os municípios",A008,D007
+1.3.2.2,1.3.2,"Publicação de seção da Rede Paulista pela Visão Zero no portal público de acompanhamento do PSV-SP, voltada à adesão, engajamento e troca de experiências entre municípios, órgãos estaduais e sociedade civil",A008,D007
+1.3.2.3,1.3.2,Apoio técnico aos municípios para elaboração de planos e estratégias locais de segurança viária,A011,D018
+1.3.2.4,1.3.2,Realização de oficinas regionais e encontros técnicos periódicos de acompanhamento,A011,D018
+1.3.2.5,1.3.2,"Implementação de incentivos para municípios e órgãos estaduais associados ao desempenho, contemplando todos os eixos de atuação",A011,D018
+1.3.3.1,1.3.3,Indução da formalização de acordos e parcerias firmadas com base em critérios técnicos e de interesse público,A011,D018
+1.3.3.2,1.3.3,Publicação anual de relatório de resultados e impactos das parcerias,A007,D004
+1.3.4.1,1.3.4,Elaboração de diretrizes estaduais padronizadas voltadas à adoção de práticas seguras e aplicação da legislação,A008,D005
+1.3.4.2,1.3.4,"Criação de protocolo estadual de cooperação e intercâmbio de informações com plataformas digitais, prevendo o compartilhamento regular de dados anonimizados, em conformidade com a LGPD",A011,D018
+1.3.4.3,1.3.4,Elaboração de minutas-modelo de regulamentação municipal específicas para proteção de usuários vulneráveis em serviços de transporte,A008,D005
+1.3.4.4,1.3.4,"Elaboração de nota técnica estadual com propostas de aprimoramento da regulação nacional sobre segurança de condutores e passageiros vinculados a serviços de transporte, a ser encaminhada ao Governo Federal",A008,D005
+1.3.4.5,1.3.4,"Implementação de projeto-piloto em parceria com empresas de transporte, voltado à redução de sinistros e à avaliação de práticas seguras de condução",A011,D018
+2.1.1.1,2.1.1,"Elaboração e revisão periódica de protocolo de governança Infosiga, estabelecendo instâncias de decisão, responsabilidades, critérios de atualização e segurança dos dados",A011,D018
+2.1.1.2,2.1.1,"Desenvolvimento de módulos temáticos (infraestrutura viária, fiscalização, comunicação e educação) para registro e acompanhamento das ações realizadas por órgãos estaduais e municipais",A011,D018
+2.1.1.3,2.1.1,"Desenvolvimento de interface tecnológica para automatizar processos e fluxos de compartilhamento de dados de segurança viária entre sistemas estaduais, federais e municipais",A011,D018
+2.1.2.1,2.1.2,Instituição do Fórum Estadual de Dados de Segurança Viária como instância permanente de gestão da informação,A034,D031
+2.1.2.2,2.1.2,Elaboração de calendário de atividades,A011,D018
+2.1.2.3,2.1.2,Realização de reuniões ordinárias do Fórum,A011,D018
+2.1.3.1,2.1.3,Criação de Protocolos Operacionais Padrão (POPs) para formalização do compartilhamento de dados de segurança viária entre órgãos públicos,A011,D018
+2.1.3.2,2.1.3,Formalização de instrumentos para o compartilhamento e tratamento de dados de segurança viária entre órgãos públicos,A011,D018
+2.1.3.3,2.1.3,Implementação de apoios técnicos associados à regularidade das informações enviadas,A011,D018
+2.1.4.1,2.1.4,"Desenvolvimento e implementação de aplicativo estadual de registro de sinistros de trânsito, a ser usado pelas forças de segurança, órgãos municipais de trânsito",A011,D018
+2.1.4.2,2.1.4,Criação de Protocolos Operacionais Padrão (POPs) para uso do aplicativo estadual de registro de sinistros de trânsito,A011,D018
+2.1.4.3,2.1.4,Criação de modelo do instrumento normativo entre Detran-SP e outros entes para adesão ao uso do aplicativo estadual de registro de sinistros de trânsito,A011,D018
+2.1.4.4,2.1.4,Capacitação das forças de segurança na coleta de dados de sinistros de trânsito e uso do aplicativo estadual de registro de sinistros de trânsito,A011,D018
+2.1.4.5,2.1.4,Criação de protocolo de acionamento das forças policiais para apoio na investigação de crimes de trânsito,A036,D033
+2.1.5.1,2.1.5,Revisão da composição e do regimento interno do Grupo de Trabalho de Avaliação de Causas Externas,A033,D025
+2.1.5.2,2.1.5,Definição de plano de trabalho anual do Grupo de Trabalho de Avaliação de Causas Externas,A033,D025
+2.1.5.3,2.1.5,Capacitações em análise de dados de causas externas,A033,D025
+2.2.1.1,2.2.1,"Integração dos dados do Registro Nacional de Condutores Habilitados (RENACH), Registro Nacional de Veículos Automotores (RENAVAM) e Registro Nacional de Infrações (RENAINF) aos dados do Infosiga",A011,D018
+2.2.1.2,2.2.1,"Integração dos dados do Sistema de Informações Hospitalares (SIH), Sistema de Informações sobre Mortalidade (SIM) e Sistema de Informações Ambulatoriais (SIA) aos dados do Infosiga",A011,D018
+2.2.1.3,2.2.1,"Integração dos dados do Sistema MITS, Fluxo de veículos e de Sensores de tráfego da ARTESP aos dados do Infosiga",A011,D018
+2.2.1.4,2.2.1,"Aprimoramento dos bancos de dados dos Atendimentos pelas Unidades Básicas de Atendimento (UBAs), Fluxo de veículos e de Sensores de tráfego do DER-SP visando a interoperabilidade com o Infosiga",A009,D012
+2.2.1.5,2.2.1,"Integração dos bancos de dados dos Atendimentos pelas Unidades Básicas de Atendimento (UBAs), Fluxo de veículos, Sensores de tráfego, SIGOR e Sistema Monitora SP do DER aos dados do Infosiga",A011,D018
+2.2.1.6,2.2.1,Integração dos dados de esquipamentos de fiscalização de velocidade ao Infosiga,A011,D018
+2.2.1.7,2.2.1,Integração dos dados de sistemas de informação e monitoramento no estado de São Paulo ao Infosiga,A011,D018
+2.2.1.8,2.2.1,Integração dos dados dos laudos necroscópicos e toxicológicos do IML aos dados do Infosiga,A011,D018
+2.2.2.1,2.2.2,Criação de sistema gerencial e alertas da completude e consistência dos dados e informações de segurança viária no Infosiga,A011,D018
+2.2.2.2,2.2.2,Criação e implantação de Protocolos Operacionais Padrão (POPs) para resolução das inconformidades identificadas no sistema gerencial de alertas,A011,D018
+2.3.1.1,2.3.1,Expansão da quantidade de informações disponibilizadas na base de dados abertos do Infosiga,A011,D018
+2.3.1.2,2.3.1,Publicação periódica das informações do total de mortos e feridos no trânsito e das vidas salvas no estado de São Paulo,A011,D018
+2.3.1.3,2.3.1,Elaboração e publicação do relatório anual de sinistralidade no trânsito do estado de São Paulo,A011,D018
+2.3.1.4,2.3.1,Criação de API pública de dados do Infosiga,A011,D018
+2.3.2.1,2.3.2,"Produção e divulgação periódica, atrelada às reuniões do comitê gestor do PSV-SP, do monitoramento da implementação do plano",A008,D005
+2.3.2.2,2.3.2,"Produção e divulgação periódica de estudo de custo-efetividade dos investimentos estaduais em segurança viária, destacando a relação entre investimentos e vidas salvas",A011,D018
+2.3.3.1,2.3.3,"Elaboração de manual metodológico de avaliação de impacto de ações para segurança viária, padronizando conceitos, abordagens e indicadores",A011,D018
+2.3.3.2,2.3.3,"Elaboração e divulgação periódica dos estudos de avaliação de impacto em repositório digital em código aberto com publicação integral dos estudos, metodologias e bases de referência e recomendações de políticas",A011,D018
+2.3.3.3,2.3.3,Criação de painel de monitoramento de impacto de ações para segurança viária integrado ao Infosiga,A011,D018
+2.3.3.4,2.3.3,"Capacitação técnica periódica em avaliação de impacto, voltada a gestores públicos e parceiros institucionais",A011,D018
+2.3.4.1,2.3.4,"Elaboração de calendário anual de capacitação, incluindo as temáticas de análise de dados, proteção de dados e governanaça de dados",A011,D018
+2.3.4.2,2.3.4,Formalização de parceria com universidade e/ou centro de pesquisa para realização de cursos correlatos,A011,D018
+2.3.5.1,2.3.5,Aquisição e instalação de medidores automáticos de tráfego,A009,D011
+2.3.5.2,2.3.5,Elaboração de diagnóstico de exposição ao risco em rodovias estaduais,A009,D011
+2.3.5.3,2.3.5,Elaboração de análises preditivas de sinistros a partir dos dados obtidos com os medidores de tráfego,A009,D011
+2.3.5.4,2.3.5,"Criação de painel interativo de tráfego com visualização integrada de fluxo veicular, velocidade e risco de ocorrência de sinistros",A009,D011
+2.3.5.5,2.3.5,Capacitação técnica em análise preditiva de sinistros a partir de dados de tráfego rodoviário,A009,D011
+3.1.1.1,3.1.1,"Elaboração e publicação do guia técnico estadual de desenho viário seguro, reunindo e atualizando diretrizes e parâmetros aplicáveis à malha urbana, com orientações para formulação, avaliação e implantação de projetos viários seguros pelos municípios e órgãos estaduais",A011,D018
+3.1.1.2,3.1.1,Incorporação das diretrizes e parâmetros do guia técnico estadual de desenho viário seguro em programas estaduais que incidem na malha urbana,A011,D018
+3.1.1.3,3.1.1,Disseminação e treinamento do guia técnico estadual de desenho viário seguro para técnicos estaduais e municipais,A011,D018
+3.1.2.1,3.1.2,Definição de indicadores contratuais complementares de desempenho relacionados à infraestrutura viária segura de todos os usuários da via e validação intersetorial dos indicadores,A004,D001
+3.1.2.2,3.1.2,Publicação de caderno de indicadores contratuais de infraestrutura viária segura para concessão de rodovias e novas rodovias,A004,D001
+3.1.2.3,3.1.2,Incorporação de metas de readequação da infraestrurua viária nos editais e aditivos contratuais relativos à concessão de rodovias e novas rodovias,A004,D001
+3.1.2.4,3.1.2,Elaboração e publicação de de resultados de análises de desempenho em segurança viária das concessionárias,A004,D001
+3.1.3.1,3.1.3,Mapeamento e análise crítica dos contratos de concessão de corredores de transporte coletivo existentes e cláusulas de infraestrutura viária segura,A004,D002
+3.1.3.2,3.1.3,Definição de indicadores contratuais complementares de desempenho relacionados à infraestrutura viária segura de todos os usuários da via e validação intersetorial dos indicadores,A004,D002
+3.1.3.3,3.1.3,Publicação de caderno de indicadores contratuais de infraestrutura viária segura para concessão de corredores de transporte coletivo,A004,D002
+3.1.3.4,3.1.3,Incorporação de metas de readequação da infraestrurua viária nos editais e aditivos contratuais relativos à concessão de corredores de transporte coletivo,A004,D002
+3.1.3.5,3.1.3,Elaboração e publicação de resultados de análises de desempenho em segurança viária das concessionárias,A004,D002
+3.1.4.1,3.1.4,Mapeamento e análise crítica dos contratos de novas rodovias e de manutenção de rodovias existentes e cláusulas relacionados à infraestrutura viária segura,A009,D010
+3.1.4.2,3.1.4,Definição de indicadores contratuais complementares de desempenho relacionados à infraestrutura viária segura de todos os usuários da via e validação intersetorial dos indicadores,A009,D010
+3.1.4.3,3.1.4,Publicação de caderno de indicadores contratuais de infraestrutura viária segura para novas rodovias e manutenção de rodovias,A009,D010
+3.1.4.4,3.1.4,Incorporação de metas de readequação da infraestrurua viária nos editais e aditivos contratuais relativos às novas rodovias e de manutenção de rodovias,A009,D010
+3.1.4.5,3.1.4,Elaboração e publicação de resultados de análises de desempenho em segurança viária das rodovias estaduais sob administração pública direta,A009,D010
+3.1.5.1,3.1.5,Análise crítica das diretrizes e parâmetros já existentes a nível estadual sobre desenho e sinalização viária voltada para pedestres,A009,D009
+3.1.5.2,3.1.5,Criação de parâmetros de desenho viário seguro para pedestres em trechos de rodovias estaduais que cruzam centros urbanos,A009,D009
+3.1.5.3,3.1.5,"Publicação do Manual Rodoviário para Pedestres do DER-SP, incorporando parâmetros existentes, revisados e criados",A009,D009
+3.1.5.4,3.1.5,"Disseminação e treinamento do Manual Rodoviário para Pedestres do DER-SP criado para técnicos estaduais e municipais, e das concessionárias",A009,D009
+3.1.6.1,3.1.6,Elaboração de documento com recomendações de atualização ou harmonização de normas técnicas de infraestrutura e desenho viário embasadas em evidências,A009,D009
+3.1.6.2,3.1.6,Envio de contribuições técnicas para a Câmara Temática de Engenharia de Tráfego e Sinalização de Trânsito (CTET) vinculada ao Conselho Nacional de Trânsito (CONTRAN),A009,D009
+3.2.1.1,3.2.1,"Mapeamento dos trechos de alto risco das rodovias estaduais sob administração pública direta, a partir da metodologia iRAP de avaliação da infraestrutura",A009,D011
+3.2.1.2,3.2.1,"Mapeamento dos trechos de alto risco das rodovias estaduais concedidas, a partir da metodologia iRAP de avaliação da infraestrutura",A004,D001
+3.2.1.3,3.2.1,"Elaboração e publicação de plano de priorização e tratamento dos pontos críticos das rodovias estaduais sob administração pública direta, considerando locais mais críticos e trechos rodoviários com características urbanas",A009,D011
+3.2.1.4,3.2.1,Revisão dos planos de ação de intervenções nas rodovias estaduais concedidas para inclusão do tratamento dos pontos críticos não previstos,A004,D001
+3.2.1.5,3.2.1,Capacitação das equipes técnicas estaduais em inspeções de segurança viária,A009,D011
+3.2.1.6,3.2.1,Implantação dos projetos de melhorias nos trechos de rodovias estaduais sob administração pública direta,A009,D009
+3.2.1.7,3.2.1,Publicação de resultados de análises de desempenho com periodicidade e métricas padronizadas por trecho das rodovias sob administração pública direta,A009,D011
+3.2.1.8,3.2.1,Publicação de resultados de análises de desempenho com periodicidade e métricas padronizadas por trecho das rodovias concedidas,A004,D001
+3.2.2.1,3.2.2,Mapeamento e análise crítica dos programas estaduais existentes que implementam ações na malha viária urbana,A011,D018
+3.2.2.2,3.2.2,"Revisão dos critérios de enquadramento, seleção dos locais e soluções-tipo dos programas, com foco em salvar vidas",A011,D018
+3.2.2.3,3.2.2,Capacitação dos técnicos municipais e estaduais em desenho viário seguro,A011,D018
+3.2.2.4,3.2.2,Repasse de recursos financeiros e/ou materiais para a implantação de projetos viários seguros nos municipios,A011,D018
+3.2.3.1,3.2.3,"Mapeamento e georreferenciamento de registros de atropelamentos de fauna e animais domésticos em rodovias estaduais, com identificação dos 50 trechos mais críticos",A009,D011
+3.2.3.2,3.2.3,"Elaboração de Plano estadual de mitigação de atropelamentos de fauna, com diretrizes de engenharia, gestão e monitoramento",A009,D011
+3.2.3.3,3.2.3,Elaboração de instrumento de cooperação com municípios para criação e fortalecimento de espaços de acolhimento e atendimento emergencial a animais domésticos abandonados e atropelados vivos,A009,D011
+3.2.3.4,3.2.3,Implantação de programa piloto de passagens de fauna com monitoramento de efetividade,A009,D011
+3.2.3.5,3.2.3,"Realização de campanha estadual de conscientização sobre abandono e bem-estar animal, em parceria com municípios",A009,D011
+3.3.1.1,3.3.1,Monitoramento permanente dos Planos Integrados de Transportes Urbanos (PITU),A037,D035
+3.3.1.2,3.3.1,"Ampliação dos critérios de segurança viária no PDT e PITU, alinhando-os ao Sistema Seguro",A037,D035
+3.3.2.1,3.3.2,"Mapeamento dos trechos rodoviários críticos, considerando locais com alta sinistralidade de ciclistas, locais com alto fluxo de ciclistas em rodovias sem infraestrutura cicloviária e trechos rodoviários com características urbanas, e definição das metas e prazos de implantação",A032,D024
+3.3.2.2,3.3.2,Revisão e atualização da regulamentação que define os parâmetros de desenho da infraestrutura cicloviária nas rodovias estaduais,A032,D024
+3.3.2.3,3.3.2,"Revisão e atualização da regulamentação estadual para incluir a obrigatoriedade de bicicletários nas estações de transporte coletivo mantidas ou concedidas pelo estado (metrô, trem, VLT etc.)",A032,D024
+3.3.2.4,3.3.2,Implantação dos projetos de ciclovias e ciclofaixas nos trechos rodoviários críticos sob administração pública direta,A009,D009
+3.3.2.5,3.3.2,Incorporação da obrigação de ciclovias e ciclofaixas nos trechos rodoviários críticos nos editais e aditivos contratuais das rodovias estaduais concedidas,A004,D001
+4.1.1.1,4.1.1,Elaboração de repositório com materiais de apoio à prática educativa no tema da segurança viária contendo orientações de atividades e projetos continuados para cada etapa escolar e faixa etária,A011,D018
+4.1.1.2,4.1.1,Realização de programas de capacitação de professores da rede de educação básica estadual e municipal em mobilidade e segurança viária,A011,D018
+4.1.1.3,4.1.1,Realização de oficinas e palestras sobre segurança viária voltadas a adultos e idosos atendidos pela EJA nas redes estadual e municipal de educação,A031,D023
+4.1.1.4,4.1.1,"Criação de rede paulista de educadores estaduais e municipais em segurança viária, da rede de articuladores regionais",A031,D023
+4.1.1.5,4.1.1,Instituição de reconhecimento estadual de boas práticas de segurança viária na rede de educação básica,A031,D023
+4.1.2.1,4.1.2,Formalização dos convênios e parcerias com universidades e institutos,A031,D023
+4.1.2.2,4.1.2,Realização de oficinas e palestras para aproximação com as instituições de ensino superior,A011,D018
+4.1.2.3,4.1.2,"Elaboração de documento com diretrizes curriculares e conteúdos mínimos sobre segurança viária, em alinhamento com os princípios do Sistema Seguro e da Visão Zero, e com a BNCC e Currículo Paulista",A011,D018
+4.1.2.4,4.1.2,Instituição de reconhecimento estadual de boas práticas de segurança viária na rede de educação superior,A011,D018
+4.1.3.1,4.1.3,Mapeamento dos municípios que possuem órgãos de trânsito e das organizações e institutos por localidade que possuem sinergia com o tema da mobilidade e segurança viária,A011,D018
+4.1.3.2,4.1.3,"Formalização de convênios e parcerias com municípios, organizações e institutos",A011,D018
+4.1.3.3,4.1.3,Capacitação servidores municipais e equipes das organizações parceiras,A011,D018
+4.1.4.1,4.1.4,Publicação de metodologia participativa para sensibilização e escuta de jovens que valorize suas experiências e vivências,A011,D018
+4.1.4.2,4.1.4,Capacitação das equipes das Superintendências Regionais de Trânsito para aplicação das atividades,A011,D018
+4.1.4.3,4.1.4,Definição de agenda alinhada com o calendário das unidades escolares para aplicação das atividades,A031,D023
+4.1.4.4,4.1.4,Elaboração e implementação de plano de atividades de sensibilização juvenil,A011,D018
+4.1.4.5,4.1.4,Realização de ciclos de sensibilização de jovens pelas Superintendências Regionais de Trânsito,A011,D018
+4.2.1.1,4.2.1,Elaboração de conteúdo dos conceitos de Sistema Seguro e Visão Zero para uso nos ciclos de capacitação,A011,D018
+4.2.1.2,4.2.1,Implantação de ferramenta de monitoramento da atualização contínua dos servidores estaduais no âmbito do SISTRAN-SP,A008,D007
+4.2.2.1,4.2.2,Disseminação de conteúdo dos conceitos de Sistema Seguro e Visão Zero para uso do município nos ciclos de capacitação,A011,D018
+4.2.2.2,4.2.2,"Criação de espaços permanentes de intercâmbio entre técnicos municipais e estaduais sobre formação e capacitação continuada de servidores, no âmbito do SISTRAN-SP",A008,D008
+4.3.1.1,4.3.1,"Revisão dos conteúdos das capacitações de Motofrete, Transporte Escolar, Transporte Coletivo de Passageiros, Transporte de Produtos Perigosos, Transporte de Emergência e Transporte de Carga Indivisível, alinhando-os aos princípios do Sistema Seguro",A011,D018
+4.3.2.1,4.3.2,Avaliação e homologação dos materiais didáticos e referenciais pedagógicos alinhados ao Sistema Seguro utilizados na formação de instrutores e examinadores de trânsito,A011,D018
+4.3.2.2,4.3.2,Implementação de programa de reconhecimento e incentivo a instrutores e examinadores,A011,D018
+4.3.3.1,4.3.3,"Definição unificada das indicações estaduais, no âmbito do SISTRAN-SP, para representação estadual na Câmara Temática de Educação para o Trânsito (CTEDUC)",A008,D005
+4.3.3.2,4.3.3,"Elaboração de documento com recomendações sobre a atualização da formação de condutores, seus conteúdos e metodologias",A011,D018
+4.3.4.1,4.3.4,Publicação de diagnóstico técnico das condições dos locais de provas,A011,D017
+4.3.4.2,4.3.4,Implantação das adequações conforme critérios de priorização definidos,A011,D017
+4.3.5.1,4.3.5,Adequação dos sistemas digitais para disseminação das campanhas,A011,D016
+4.3.5.2,4.3.5,Produção de conteúdos de campanhas educativas alinhados aos principais fatores de risco,A011,D018
+5.1.1.1,5.1.1,Criação de guia com diretrizes de desenvolvimento de campanhas e banco de referências de campanhas nacionais e internacionais em segurança viária no portal da SECOM,A011,D013
+5.1.1.2,5.1.1,Publicação de guia com diretrizes de desenvolvimento de campanhas e banco de referências de campanhas nacionais e internacionais em segurança viária no portal da SECOM,A011,D013
+5.1.2.1,5.1.2,"Elaboração do Plano Anual de Mídia das Campanhas de Massa, com definição de canais e orçamento",A011,D013
+5.1.2.2,5.1.2,Execução de brand lift (ferramenta para medir o impacto das campanhas no público) em campanhas pré determinadas do calendário anual,A011,D013
+5.1.2.3,5.1.2,Execução de teste de mensagem pré campanha para garantir mensagem alinhada com o público-alvo,A011,D013
+5.1.2.4,5.1.2,Implantação de ferramenta de monitoramento de indicadores de comunicação,A011,D013
+5.1.3.1,5.1.3,"Produção de materiais de campanhas temáticas multicanal (podendo incluir peças digitais, vídeos e materiais impressos)",A011,D013
+5.1.3.2,5.1.3,"Disseminação dos materiais de campanhas temáticas multicanal (podendo incluir peças digitais, vídeos e materiais impressos) aos municípios",A011,D013
+5.2.1.1,5.2.1,"Produção de materiais de apoio (apresentações, roteiros, guias, etc)",A011,D013
+5.2.1.2,5.2.1,Desenvolvimento de plano de capacitações,A011,D013
+5.2.1.3,5.2.1,Realização de capacitações para porta-vozes dos órgãos integrados ao Sistran,A011,D013
+5.2.1.4,5.2.1,Realização de capacitações para equipes de comunicação dos órgãos integrados ao Sistran,A011,D013
+5.2.2.1,5.2.2,Publicação do Guia Oficial de Narrativa de Segurança Viária do Estado de São Paulo,A011,D013
+5.2.2.2,5.2.2,Criação de ficha resumo para porta-vozes com dicas de comunicação e mensagens-chave sobre temas sensíveis relacionados à segurança viária,A011,D013
+5.2.3.1,5.2.3,Criação e publicação de Guia Prático para Ações de Comunicação em Segurança Viária,A011,D013
+5.2.3.2,5.2.3,Disseminação do guia junto aos municípios integrados ao Sistran-SP,A011,D018
+5.2.4.1,5.2.4,Criação e manutenção de lista de contatos qualificado de imprensa,A011,D013
+5.2.4.2,5.2.4,"Produção e envio regular de sugestões de pauta, artigos de opinião e comunicados à imprensa",A011,D013
+5.2.4.3,5.2.4,Realização de capacitação anual para jornalistas,A011,D013
+5.2.4.4,5.2.4,"Produção e distribuição de ""kit de imprensa digital"" após eventos e ações estratégicas",A011,D013
+5.3.1.1,5.3.1,Desenvolvimento de plano de capacitações,A011,D013
+5.3.1.2,5.3.1,"Produção de materiais de apoio (apresentações, roteiros, guias, etc)",A011,D013
+5.3.2.1,5.3.2,Formalização de acordos de cooperação ou termos de parceria,A011,D018
+5.3.2.2,5.3.2,Mapeamento de novos parceiros para colaboração,A011,D013
+5.3.3.1,5.3.3,Definição de calendário editorial anual com ações intersetoriais de comunicação sobre segurança viária aos municípios,A011,D013
+5.3.3.2,5.3.3,Disseminação do calendário junto às Superintendências Regionais de Trânsito e órgãos parceiros,A011,D013
+6.1.1.1,6.1.1,"Mapeamento e revisão de convênios e instrumentos legais existentes entre órgãos de fiscalização, bem como de modelos de convênio no âmbito do Estado",A011,D016
+6.1.1.2,6.1.1,Revisão de modelo de documentos e instrumentos legais padrão,A011,D016
+6.1.1.3,6.1.1,Assinatura e publicação de instrumentos legais de cooperação,A011,D021
+6.1.2.1,6.1.2,Realização de oficinas técnicas regionais com participação dos órgãos envolvidos,A011,D018
+6.1.2.2,6.1.2,"Estabelecimento de planos estratégicos estadual e regionais de fiscalização, com base nos dados Infosiga e Oficinas regionais",A011,D018
+6.1.2.3,6.1.2,"Desenvolvimento de solução tecnológica para apoiar o planejamento integrado de operações, contemplando requisitos e protocolos para a coleta e gestão de dados",A011,D019
+6.1.2.4,6.1.2,"Publicação de resultados de análise de desempenho e cobertura territorial das operações, com o objetivo de avaliar o impacto das ações de fiscalização e garantir a alocação adequada e sustentada de recursos",A011,D018
+6.1.3.1,6.1.3,Publicação do Plano de Trabalho e Cronograma do processo colaborativo de elaboração do manual,A011,D016
+6.1.3.2,6.1.3,"Elaboração e publicação do Manual Estadual de Procedimentos Operacionais Padrão (POP), incluindo a revisão de manuais de procedimento operacional atuais (CPTran/CPRv/PRF)",A011,D016
+6.1.4.1,6.1.4,Elaboração de diagnóstico estadual das capacidades municipais de fiscalização,A011,D018
+6.1.4.2,6.1.4,Elaboração e publicação de guia de apoio à estruturação da fiscalização municipal,A011,D018
+6.1.4.3,6.1.4,Realização de ciclos regionais de capacitação técnica para municípios,A011,D018
+6.1.5.1,6.1.5,Elaboração de plano anual de capacitação e intercâmbio técnico,A011,D018
+6.1.5.2,6.1.5,"Realização de fóruns, workshops e visitas técnicas entre órgãos fiscalizadores",A011,D018
+6.1.5.3,6.1.5,Oferecimento de cursos para órgãos conveniados ao Detran-SP por intermédio da plataforma de educação do Detran-SP,A011,D018
+6.1.6.1,6.1.6,Realização de encontros e seminários técnicos sobre segurança viária,A008,D007
+6.1.6.2,6.1.6,"Elaboração e disseminação de materiais de referência para o Judiciário (Cartilha comum/manual com tipos de bloqueio, tanto para judiciário quanto para órgãos)",A011,D020
+6.2.1.1,6.2.1,Elaboração de modelo metodológico de avaliação das ações de fiscalização,A011,D018
+6.2.1.2,6.2.1,Difusão dos resultados junto aos órgãos estaduais e municipais de fiscalização,A011,D018
+6.2.2.1,6.2.2,Realização de diagnóstico do sistema estadual de registro de autuações,A011,D016
+6.2.2.2,6.2.2,"Definição de novos parâmetros técnicos e operacionais para registro e acompanhamento das autuações para acompanhamento de todo o processo das autuações, desde a autuação até o recurso/pagamento",A011,D016
+6.2.2.3,6.2.2,Implementação de melhorias no sistema de registro e acompanhamento,A011,D016
+6.2.2.4,6.2.2,Realização de capacitação dos usuários do sistema,A011,D018
+6.2.3.1,6.2.3,"Elaboração de planejamento integrado das operações de fiscalização, com definição dos comportamentos risco e tipos de fiscalização a serem usados, alocação de recursos e cronograma de patrulhamento focado em público, locais e horários de alto risco",A011,D016
+6.2.3.2,6.2.3,"Realização de operações integradas de fiscalização, empregando táticas e procedimentos adequados para cada comportamento de risco com foco na dissuasão",A011,D016
+6.2.4.1,6.2.4,Elaboração de guia técnico para gestão e uso dos equipamentos de fiscalização,A011,D016
+6.2.4.2,6.2.4,Definição de requisitos técnicos e operacionais para avaliação dos equipamentos,A011,D016
+6.2.4.3,6.2.4,"Realização de capacitação da gestão, uso e manutenção de equipamentos",A011,D018
+6.2.5.1,6.2.5,"Realização de estudo técnico e estatístico para identificação de locais prioritários de fiscalização eletrônica, priorizando dados do Infosiga",A011,D018
+6.2.5.2,6.2.5,Definição de critérios e parâmetros para instalação de equipamentos de controle de velocidade,A008,D005
+6.2.5.3,6.2.5,Acompanhamento da implantação de equipamentos de fiscalização eletrônica em locais prioritários,A008,D005
+6.2.6.1,6.2.6,Elaboração de plano de ação estadual para prevenção e combate a infratores contumazes,A011,D016
+6.2.6.2,6.2.6,Implantação de mecanismos tecnológicos e integração de bases de dados para detecção de veículos de infratores contumazes,A011,D016
+6.2.7.1,6.2.7,"Diagnóstico sobre fiscalização de limites de velocidade, critérios de concessão, padrões de equipamentos e procedimentos de fiscalização junto aos órgãos competentes e concessionárias",A032,D024
+6.2.7.2,6.2.7,Elaboração de termo técnico com boas práticas de fiscalização de limites de velocidade,A032,D024
+6.2.7.3,6.2.7,Elaboração de proposta de atualização dos critérios de concessão de rodovias à iniciativa privada,A032,D024
+6.3.1.1,6.3.1,Elaboração de catálogo de boas práticas e soluções tecnológicas em fiscalização de trânsito,A011,D016
+6.3.1.2,6.3.1,Realização de encontros e oficinas técnicas para disseminação de boas práticas,A011,D016
+6.3.2.1,6.3.2,Formalização de parcerias e outros instrumentos legais para pesquisa e desenvolvimento em tecnologias de fiscalização,A011,D018
+6.3.2.2,6.3.2,Elaboração de plano de trabalho para execução dos projetos de P&D,A011,D018
+6.3.3.1,6.3.3,Elaboração de termo de parceria e outros instrumentos legais para adesão de municípios ao sistema digital de processamento de infrações de trânsito,A011,D016
+6.3.3.2,6.3.3,Avaliação da estrutura técnica das cidades interessadas e adequação de sistemas para integração,A011,D016
+6.3.3.3,6.3.3,Implementação dos sistemas digitais de lavratura e processamento de autos de infração,A011,D016
+7.1.1.1,7.1.1,"Elaboração de manual de procedimentos de fiscalização de veículos de grande porte, com foco nos sistemas de segurança",A011,D016
+7.1.1.2,7.1.1,Capacitação do manual de procedimentos de fiscalização de veículos de grande porte para equipes de fiscalização,A011,D018
+7.1.1.3,7.1.1,Edição de portaria administrativa contendo critérios de manutenção e cronogramas anuais de vistoria técnica,A008,D005
+7.1.1.4,7.1.1,Fiscalização sistemática do cumprimento dos cronogramas de manutenção,A011,D016
+7.1.1.5,7.1.1,Estabelecimento de parcerias para ações educativas sobre manutenção preventiva e responsabilidade no trânsito,A011,D018
+7.1.2.1,7.1.2,"Elaboração de procedimento estadual padrão de vistoria para veículos de transporte de carga e passageiros, com periodicidade e critérios técnicos definidos para diferentes tipos de veículos",A008,D005
+7.1.2.2,7.1.2,Edição de portaria com parâmetros mínimos de segurança para inspeções,A008,D005
+7.1.2.3,7.1.2,"Elaboração de diagnóstico sobre a cobertura regional das ITLs no Estado, relatório de expansão e resultados das ITLs",A011,D020
+7.1.2.4,7.1.2,Realização de vistorias periódicas em frotas de transporte escolar e por aplicativos,A011,D020
+7.1.3.1,7.1.3,Elaboração de estudo para avaliação de viabilidade jurídica para integração de bases de dados entre Detrans e montadoras,A011,D020
+7.1.3.2,7.1.3,Edição de normativa para compartilhamento de informações sobre campanhas de recall,A011,D020
+7.1.3.3,7.1.3,Criação de sistema de integração de dados entre Detrans e montadoras,A011,D019
+7.1.4.1,7.1.4,Elaboração de estudo piloto sobre a frota circulante envolvida em sinistros de trânsito na Cidade de São Paulo para embasar políticas de renovação de frota,A011,D020
+7.1.4.2,7.1.4,Elaboração de estudo sobre mecanismos de incentivo voltados à renovação de frota para segmentos críticos,A011,D020
+7.1.5.1,7.1.5,"Edição de norma estadual sobre cláusulas obrigatórias de manutenção preventiva em contratos públicos e concessionados, incluindo tecnologias mínimas de segurança em frotas públicas e concessionadas",A034,D031
+7.1.5.2,7.1.5,Publicação de guia técnico sobre manutenção certificada em frotas públicas,A011,D020
+7.1.6.1,7.1.6,Sugestão de legislação estadual com critérios técnicos e procedimentos de inspeção para reinserção de veículos leiloados,A008,D005
+7.1.6.2,7.1.6,Integração de informações entre boletins de ocorrência e histórico do veículo no Detran-SP,A011,D014
+7.1.6.3,7.1.6,Criação de banco de dados estadual de veículos recondicionados e reinspecionados,A011,D019
+7.1.7.1,7.1.7,Elaboração de estudo técnico sobre viabilidade da rastreabilidade e certificação de peças automotivas,A011,D020
+7.1.7.2,7.1.7,"Elaboração de proposta conjunta de regulamentação estadual sobre rastreabilidade de peças, com participação da Polícia Civil e órgãos de controle, Ministério Público, Órgãos de Defesa do Consumidor",A011,D020
+7.2.1.1,7.2.1,Elaboração de procedimento administrativo estadual para envio de sugestões,A008,D005
+7.2.1.2,7.2.1,Criação de canal de interlocução permanente com órgãos federais e montadoras,A008,D005
+7.2.2.1,7.2.2,Elaboração de proposta técnica de selo de certificação de segurança veicular,A008,D005
+7.2.2.2,7.2.2,Elaboração de minuta de documento digital com histórico do veículo e critérios de atualização,A008,D005
+7.2.3.1,7.2.3,Elaboração de proposta técnica e jurídica para obrigatoriedade de registradores de dados em veículos,A011,D020
+7.3.1.1,7.3.1,Elaboração de proposta de modelo de governança participativa para segurança veicular,A008,D005
+7.3.1.2,7.3.1,Publicação de ato instituindo o fórum estadual de segurança veicular,A008,D007
+7.3.1.3,7.3.1,Realização de reuniões e encontros técnicos periódicos com participação de representantes públicos e privados,A008,D005
+7.3.2.1,7.3.2,Elaboração de calendário anual de capacitações e intercâmbios sobre inspeção e tecnologias veiculares,A011,D018
+7.3.2.2,7.3.2,Realização de oficinas e capacitações conjuntas entre órgãos públicos e setor automotivo,A011,D018
+7.3.2.3,7.3.2,Elaboração de materiais técnicos e guias de boas práticas,A011,D018
+7.3.3.1,7.3.3,"Elaboração de proposta de atualização regulatória e aprimoramento de critérios de segurança veicular, juntamente com pareceres e análises sobre a regulação a ser atualizada",A011,D020
+7.3.3.2,7.3.3,Divulgação dos pareceres e recomendações em ambiente digital acessível,A011,D015
+8.1.1.1,8.1.1,Mapeamento e diagnóstico dos fluxos de atendimento e acionamento entre os diferentes serviços de emergência,A036,D034
+8.1.1.2,8.1.1,Definição do modelo de governança e das responsabilidades de cada órgão sistema estadual de resposta a emergências,A036,D032
+8.1.1.3,8.1.1,"Elaboração de protocolo unificado de triagem e acionamento, com critérios padronizados para priorização e despacho de recursos",A036,D032
+8.1.2.1,8.1.2,Mapeamento e diagnóstico da cobertura atual dos serviços de emergência e identificação das áreas com maior demanda por atendimentos,A036,D032
+8.1.2.2,8.1.2,"Proposição de modelo de planejamento territorial da resposta a emergências, considerando tempos de deslocamento e tempo de resposta ideal, densidade populacional e perfil dos sinistros",A036,D032
+8.1.2.3,8.1.2,Elaboração do diagnóstico da necessidade de expansão da frota de suporte avançado e veículos rápidos de intervenção (VIRs) juntamente com diagnostico regional de ampliação das equipes multiprofissionais de atendimento pré-hospitalar,A033,D029
+8.1.2.4,8.1.2,"Integração dos dados operacionais de atendimento de emergência ao sistema SIRESP, Grupo de Resgate - GRAU, e-SUS e Infosiga, ampliando a capacidade analítica e de monitoramento do sistema",A033,D029
+8.1.3.1,8.1.3,Realização de inventário dos protocolos existentes de atendimento pré-hospitalar,A033,D029
+8.1.3.2,8.1.3,Compatibilização dos protocolos de atendimento pré-hospitalar e hospitalar,A033,D029
+8.1.3.3,8.1.3,Compatibilização de protocolos conjuntos de atendimento,A033,D027
+8.1.3.4,8.1.3,Atualização dos planos regionais da Rede de Urgência e Emergência (RUE),A033,D030
+8.1.3.5,8.1.3,"Capacitação continuada das equipes de atendimento, assegurando aplicação uniforme dos protocolos",A033,D029
+8.1.3.6,8.1.3,Realização de simulados integrados de atendimento pré-hospitalar e hospitalar a vítimas de sinistros de trânsito,A033,D029
+8.1.4.1,8.1.4,Definição de responsabilidades e fluxos individuais e conjuntos de trabalho voltados à priorização de circulação de ambulâncias e viaturas,A036,D032
+8.1.4.2,8.1.4,"Estudo para integração entre sistemas de trânsito para priorização de tráfego dos veículos de emergência, com avaliação de boas práticas já utilizadas e diretrizes para aplicação nos demais municípios",A036,D032
+8.1.5.1,8.1.5,Elaboração da matriz curricular e estrutura do curso de Capacitação sobre Suporte Básico de Vida (SBV) e público alvo,A033,D029
+8.1.5.2,8.1.5,"Realização de programa de capacitação em Suporte Básico de Vida (SBV), direcionado a CFCs, universidades, professores de educação física, profissionais de mobilidade, motociclistas, condutores de transporte coletivo",A033,D029
+8.2.1.1,8.2.1,"Formalização de acordos de cooperação entre instituições de suporte pós-hospitalar, assegurando acompanhamento e cuidado integral após a redução do risco do paciente",A033,D030
+8.2.1.2,8.2.1,Inclusão de novos membros para ampliação do Grupo de Trabalho de discussão da rede hospitalar,A033,D026
+8.2.2.1,8.2.2,Formalização de acordos de cooperação técnica para integração entre os sistemas de informação,A033,D028
+8.2.2.2,8.2.2,"Integração entre os sistemas de informação de saúde existentes e o Infosiga, permitindo cruzamento de dados e análise em tempo real de sinistros e desfechos clínicos",A033,D028
+8.2.3.1,8.2.3,"Formalização de parcerias com universidades e centros de pesquisa, para apoio técnico, desenvolvimento de conteúdos e avaliação das capacitações",A033,D029
+8.2.3.2,8.2.3,"Capacitação continuada, abordando protocolos clínicos integrados que favoreçam a reabilitação das vítimas",A033,D029
+8.3.1.1,8.3.1,Elaboração de protocolo estadual voltado ao cuidado integral às vítimas de sinistros e seus familiares,A033,D029
+8.3.1.2,8.3.1,"Elaboração do plano de capacitação continuada para profissionais de saúde e assistência social, com foco em atendimento humanizado e comunicação sensível com vítimas e familiares",A033,D029
+8.3.1.3,8.3.1,Desenvolvimento de campanhas de sensibilização sobre a importância da reabilitação física e psicológica e do apoio familiar no processo de recuperação,A033,D029
+8.4.1.1,8.4.1,"Elaboração de Protocolo Estadual de Atendimento ao Trauma em Rodovias, alinhado às diretrizes do Ministério da Saúde, Rede de Urgência e Emergência (RUE) e Grupo de Resgate (GRAU)",A033,D029
+8.4.1.2,8.4.1,"Revisão dos contratos de concessão vigentes para inclusão de novas diretrizes técnicas para atendimento e revisão de cláusulas existentes sobre qualidade, transparência e penalidades em caso de descumprimento",A004,D001
+8.4.1.3,8.4.1,Realização de monitoramento e auditoria do parâmetros operacionais de atendimento ao trauma nas rodovias concedidas,A004,D001
+8.4.1.4,8.4.1,Elaboração de campanha pública de orientação à população sobre procedimentos em caso de sinistro em rodovias,A004,D001
+8.4.2.1,8.4.2,"Elaboração de diagnóstico das condições de atendimento a sinistros em rodovias estaduais sob administração pública direta, incluindo levantamento da cobertura atual de GRAU, SAMU, Bombeiros e serviços municipais de saúde e identificação de trechos críticos com maior tempo de resposta",A009,D011
+8.4.2.2,8.4.2,Elaboração de Plano Estadual de Atendimento Integrado em rodovias estaduais sob administração pública direta,A009,D011
+8.4.2.3,8.4.2,"Formalização de acordos de cooperação técnica entre Estado e municípios para cobertura compartilhada de rodovias, com definição de responsabilidades de atendimento, protocolos de acionamento e custeio de serviços",A009,D011
+8.4.2.4,8.4.2,"Elaboração de manual de operações integradas em rodovias estaduais sob administração pública direta, com a definição de protocolos de atendimento e responsabilidades de cada órgão",A009,D011
+8.4.2.5,8.4.2,Monitoramento e avaliação dos atendimentos em rodovias estaduais sob administração pública direta,A009,D011
+8.4.2.6,8.4.2,Implantação do Plano Estadual de Atendimento Integrado em rodovias estaduais sob administração pública direta em todo o estado de São Paulo,A009,D011
+8.4.3.1,8.4.3,"Formalização de instrumento de cooperação técnica entre órgãos de trânsito municipais e Grupos Regionais de Saúde e de Enfrentamento à Violência, com definição de responsabilidades, fluxos de comunicação e calendário de reuniões integrado ao da Secretaria Estadual de Saúde",A033,D028

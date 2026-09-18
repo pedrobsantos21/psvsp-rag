@@ -1,0 +1,17 @@
+[project]
+name = "psvsp"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=1.7.0",
+    "psycopg[binary]>=3.3.6",
+    "sqlglot>=30.18.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

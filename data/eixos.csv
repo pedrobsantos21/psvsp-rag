@@ -1,0 +1,12 @@
+id_eixo,nome_eixo,tipo_eixo
+1,Gestão da Segurança Viária,Eixo estrutural
+2,Gestão da Informação,Eixo estrutural
+3,Vias seguras,Eixo temático
+4,Educação,Eixo temático
+5,Comunicação,Eixo temático
+6,Fiscalização,Eixo temático
+7,Veículos seguros,Eixo temático
+8,Atendimento às vítimas,Eixo temático
+t1,"Aplicação, conformidade e melhoria normativa",Eixo transversal
+t2,Gestão dos fatores de risco no trânsito,Eixo transversal
+t3,Alinhamento ao PNATRANS,Eixo transversal
