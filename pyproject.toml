@@ -4,8 +4,12 @@ version = "0.1.0"
 requires-python = ">=3.13"
 dependencies = [
     "anthropic>=1.7.0",
+    "rich>=14.0.0",
     "sqlglot>=30.18.0",
 ]
+
+[project.scripts]
+psvsp = "psvsp.chat:main"
 
 [dependency-groups]
 dev = [
@@ -14,3 +18,7 @@ dev = [
 
 [tool.pytest.ini_options]
 pythonpath = ["."]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

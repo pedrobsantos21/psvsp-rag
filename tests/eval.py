@@ -1,4 +1,4 @@
-"""Eval manual (custa tokens): uv run --env-file .env python tests/eval.py"""
+"""Eval manual (custa tokens): uv run python tests/eval.py"""
 import sys
 from pathlib import Path
 
